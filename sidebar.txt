@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bqu:home|Door43 (bqu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bqu|d43-bqu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bqu/archive/master.zip|d43-bqu.zip]]
+
+**Recent Changes**
+{{changes>ns = bqu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bqu|Ethnologue data]]
+
